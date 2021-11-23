@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <FEFExchangeFile>
-	<fileHeader company="Schneider Automation" product="Control Expert V14.0 - 190112" dateTime="date_and_time#2021-11-15-16:0:44" content="Fichier source projet" DTDVersion="41"></fileHeader>
+	<fileHeader company="Schneider Automation" product="Control Expert V14.0 - 190112" dateTime="date_and_time#2021-11-15-16:1:55" content="Fichier source projet" DTDVersion="41"></fileHeader>
 	<contentHeader name="M340" version="0.0.297" dateTime="date_and_time#2018-9-12-12:37:32"></contentHeader>
 	<commParameters>
 		<PLCAddress address="172.16.9.3" media="TCPIP" nbTries="2" timeout="3000" highSpeed="0"></PLCAddress>
@@ -57187,7 +57187,7 @@ BCMix_DO_127 := DO_127;
 BCMix_DO_128 := DO_128;
 </STSource>
 	</program>
-	<animationTable name="Table" location="" version="1.0" dateTime="date_and_time#2021-11-15-16:0:46" ExtStringAnim="0" ExtStringAnimLen="100" PouOwner="M340">
+	<animationTable name="Table" location="" version="1.0" dateTime="date_and_time#2021-11-15-16:1:56" ExtStringAnim="0" ExtStringAnimLen="100" PouOwner="M340">
 		<elementDescription displayBase="4" name="Numero_produit_Gra1"></elementDescription>
 		<elementDescription displayBase="4" name="Produit_remplacement_Gra1"></elementDescription>
 		<elementDescription displayBase="4" name="Numero_produit_Gra2"></elementDescription>
